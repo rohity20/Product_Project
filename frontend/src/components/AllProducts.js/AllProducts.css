@@ -1,0 +1,10 @@
+
+.main-1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-2{
+  display: flex;
+}
